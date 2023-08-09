@@ -1,0 +1,8 @@
+prefix=/home/manuel/tg_ws/install
+
+Name: abb_irb140_gazebo
+Description: Description of abb_irb140_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
