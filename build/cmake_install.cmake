@@ -132,6 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/manuel/tg_ws/build/gtest/cmake_install.cmake")
   include("/home/manuel/tg_ws/build/abb_experimental/abb_irb140_gazebo/cmake_install.cmake")
+  include("/home/manuel/tg_ws/build/abb_experimental/abb_irb140_moveit_config/cmake_install.cmake")
   include("/home/manuel/tg_ws/build/abb_experimental/abb_irb140_support/cmake_install.cmake")
   include("/home/manuel/tg_ws/build/abb/abb_driver/cmake_install.cmake")
 

@@ -1,2 +1,2 @@
-abb/abb_driver:abb_experimental/abb_irb140_gazebo:abb_experimental/abb_irb140_support
+abb/abb_driver:abb_experimental/abb_irb140_gazebo:abb_experimental/abb_irb140_moveit_config:abb_experimental/abb_irb140_support
 -DCATKIN_DEVEL_PREFIX=/home/manuel/tg_ws/devel -DCMAKE_INSTALL_PREFIX=/home/manuel/tg_ws/install -G Unix Makefiles

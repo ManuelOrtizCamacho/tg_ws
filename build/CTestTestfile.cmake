@@ -6,5 +6,6 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("abb_experimental/abb_irb140_gazebo")
+subdirs("abb_experimental/abb_irb140_moveit_config")
 subdirs("abb_experimental/abb_irb140_support")
 subdirs("abb/abb_driver")
